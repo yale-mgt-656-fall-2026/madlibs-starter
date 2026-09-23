@@ -1,0 +1,1 @@
+adverbs = adverbs.concat(['slowly','extremely','entirely']);
