@@ -1,5 +1,11 @@
 verbs = verbs.concat([
-    'run',
-    'jump',
-    'code'
+    'review',
+    'merge',
+    'rebase',
+    'deploy',
+    'squash',
+    'tag',
+    'approve',
+    'branch',
+    'document'
 ]);
